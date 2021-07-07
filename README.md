@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sanikal.
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning HTML CSS and Javascript.
+- 💞️ I’m looking to collaborate on projects across the globe.
+- 📫 How to reach me sanikalokhande10@gmail.com
